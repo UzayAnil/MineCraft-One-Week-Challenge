@@ -1,5 +1,6 @@
 # MineCraft-One-Week-Challenge
 
+[![Run on Repl.it](https://repl.it/badge/github/UzayAnil/MineCraft-One-Week-Challenge)](https://repl.it/github/UzayAnil/MineCraft-One-Week-Challenge)
 I challenged myself to see if I could create Minecraft in just one week... So lets go!
 
 Video: https://www.youtube.com/watch?v=Xq3isov6mZ8
